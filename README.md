@@ -48,7 +48,15 @@ Each AI project will have its own folder with:
 
 ### 1️. Grammar Checker Using AI  
 
-An AI-powered grammar correction tool built with Python and OpenAI.
+A simple AI-powered grammar correction tool built with Python and the OpenAI API.
+
+It allows users to input a sentence and get a grammatically corrected version using AI.
+
+👉 **Project Folder:**  
+ https://github.com/Soorajchemmanoor/Simple-Python-AI-Projects-For-Beginners/tree/main/Grammar-Checker  
+
+👉 **Project Documentation:**  
+You can find detailed setup and usage instructions inside the project’s own `README.md`.
 
 **Key Highlights:**
 - Uses OpenAI for grammar correction  
