@@ -1,6 +1,6 @@
-# 🚀 Simple Python AI Projects For Beginners  
+# 🚀 Simple Python AI Projects for AI Enthusiasts  
 
-Welcome to **Simple Python AI Projects For Beginners**  
+Welcome to **Simple Python AI Projects for AI Enthusiasts**  
 A beginner-friendly collection of simple, practical AI projects built using Python and modern AI tools like OpenAI.
 
 This repository is created for learning, experimenting, and helping developers understand AI by building real mini projects.
@@ -53,7 +53,7 @@ A simple AI-powered grammar correction tool built with Python and the OpenAI API
 It allows users to input a sentence and get a grammatically corrected version using AI.
 
 👉 **Project Folder:**  
- https://github.com/Soorajchemmanoor/Simple-Python-AI-Projects-For-Beginners/tree/main/Grammar-Checker  
+ https://github.com/Soorajchemmanoor/Simple-Python-AI-Projects-for-AI-Enthusiasts/tree/main/Grammar-Checker  
 
 👉 **Project Documentation:**  
 You can find detailed setup and usage instructions inside the project’s own `README.md`.
