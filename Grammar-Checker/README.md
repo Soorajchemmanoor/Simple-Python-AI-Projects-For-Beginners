@@ -17,12 +17,12 @@ It takes input from the user, sends it to an AI model, and returns a grammatical
 
 ## Folder Structure
 
-Grammar-Checker/
-├── main.py
-├── README.md
-├── requirements.txt
-└── .env  
-
+ Grammar-Checker/  
+ ├── main.py  
+ ├── README.md  
+ ├── requirements.txt  
+ └── .env  
+ 
 
 ---
 
@@ -38,18 +38,17 @@ Grammar-Checker/
 
 1. Move into the project folder:
 
-cd grammar-checker
+   cd grammar-checker
 
 2. Install required libraries:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Setup your OpenAI API key:
 
- - Rename .env.example to .env
- - Open it and add your API key:
+   - Open .en file and add your API key:
 
- OPENAI_API_KEY=YOUR_OPENAI_API_KEY_HERE
+     OPENAI_API_KEY=YOUR_OPENAI_API_KEY_HERE
 
 ---
 
@@ -60,17 +59,17 @@ pip install -r requirements.txt
 
  - Example:
 
-   Enter a sentence: i has a apple
-   Corrected version: I have an apple
-   
- - To exit, type:
-   q
+    Enter a sentence: i has a apple  
+    Corrected version: I have an apple  
+    
+ - To exit, type: 
+    q 
 
 ---
 
 ## 🎓 Learning Purpose
 
- This project helps you understand:
+  This project helps you understand:
 
   - How to connect Python with the OpenAI API
   - How AI can be used for Natural Language Processing
